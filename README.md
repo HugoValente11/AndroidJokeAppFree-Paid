@@ -1,7 +1,7 @@
 
-***Udacity Nanodegree Project Build It Bigger***
+# Udacity Nanodegree Project Build It Bigger
 
-# Project Overview
+## Project Overview
 
 In this project, you will create an app with multiple flavors that uses
 multiple libraries and Google Cloud Endpoints. The finished app will consist
