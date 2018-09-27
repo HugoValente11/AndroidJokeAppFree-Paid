@@ -33,6 +33,7 @@ Gradle to manage apps of increasing complexity. You'll learn to:
 
 Start or stop the local server by using the gradle tasks as shown in the following screenshot:
 ![instruction](https://user-images.githubusercontent.com/25724955/46161359-4179c500-c27d-11e8-9927-873a049822db.png)
+
 After the server is running you can run the app and it will load the jokes from the server.
 
 ## Screenshots - Free version 
