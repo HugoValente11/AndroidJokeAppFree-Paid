@@ -1,5 +1,5 @@
 
-# Udacity Nanodegree Project Build It Bigger
+# Udacity Nanodegree Project Build It Bigger App
 
 ## Project Overview
 
